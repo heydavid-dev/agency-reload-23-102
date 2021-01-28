@@ -1,9 +1,8 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
-
+url: https://heydavid-dev.github.io
+base1
 # Site settings
-header_title: Welcome To Our Agency
-header_subtitle: It's Nice to be Friends
+header_title: Howdy Cowboy
+header_subtitle: To infinity and beyond! !@#$@!!@
 
 title: Awesome Title
 email: your-email@domain.com
@@ -17,47 +16,33 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
+      2    - title: facebook
+      3    - title: stack-overflow
+      4
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
+      5    - title: facebook
+      6    - title: linkedin
+      7
 - name: Diana Petersen
   pic: 3
   position: Lead Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+      8    - title: facebook
+      9    - title: google-plus
+      10
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+    11  - title: facebook
+    12  - title: stack-overflow
+    13  - title: bitbucket 
+    14  - title: github
+    15
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
